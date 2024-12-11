@@ -1,0 +1,21 @@
+﻿body {
+     background-color:cadetblue;
+}
+
+h1{
+    background-color:darkblue;
+    color:bisque;
+}
+
+col-md-5{
+    margin-top:150px !important;
+    background-color:white;
+    padding:20px;
+}
+
+input, label{
+    margin:10px;
+    font-size:20px;
+    font-weight:bold;
+}
+
